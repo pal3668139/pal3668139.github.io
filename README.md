@@ -1,2 +1,2 @@
 # pal3668139.github.io
-For hosting my iSpring quiz web files
+For hosting my various web projects
